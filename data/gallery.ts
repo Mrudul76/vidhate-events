@@ -21,5 +21,13 @@ export const galleryItems = [
   { id: 9, category: "Baby Shower", title: "Elegant Baby Shower Décor", image: "/images/IMG_5990.JPG.jpeg" },
   { id: 10, category: "Baby Shower", title: "Dreamy Baby Shower Setup", image: "/images/IMG_6150.JPG.jpeg" },
   { id: 11, category: "Baby Shower", title: "Golden Baby Shower Celebration", image: "/images/maxresdefault.jpg" },
-  
+  { id: 12, category: "Birthday", title: "Balloon blast entry",image: "/images/IMG_6874.JPG.jpeg" },
+  { id: 13, category: "Baby Shower", title: "Krishna Theme", image: "/images/IMG_6856.JPG.jpeg" },
+  { id: 14, category: "Baby Shower", title: "Varkari Theme", image: "/images/IMG_7030.JPG.jpeg" },
+  { id: 15, category: "Retirement", title: "Retirement Tribute Stage", image: "/images/IMG_6658.JPG.jpeg" },
+  { id: 16, category: "Wedding", title: "Car Decoration", image: "/images/IMG_6203.JPG.jpeg" },
+  { id: 17, category: "Wedding", title: "Mirror Entry", image: "/images/IMG_4738.JPG.jpeg" },
+
+
+
 ];
