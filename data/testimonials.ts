@@ -41,4 +41,18 @@ export const testimonials = [
     feedback:
       "Huge thanks to @vidhate_event_wani for turning our vision into a reality! The event was flawlessly executed! 💫 Thank you for making our day absolutely perfect..❤️💕",
   },
+  {
+    name: "Priyal Nimje",
+    event: "Engagement Ceremony",
+    rating: 5,
+    feedback:
+      "Thank you so much Samir da. My Engagement ceremony was so beautiful and memorable. Thank you once again.",
+  },
+  {
+    name: "Nishigandha Kutemate",
+    event: "Naming Ceremony",
+    rating: 5,
+    feedback:
+      "Beautiful decoration and amazing work! Thank you for making our special day even more memorable!",
+  }
 ];

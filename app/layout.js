@@ -2,7 +2,7 @@ import './globals.css'
 import { Toaster } from 'sonner'
 
 export const metadata = {
-  title: 'Vidhate Events | Luxury Event Planners & Decorators',
+  title: 'Vidhate Events',
   description: 'Vidhate Events crafts unforgettable celebrations — Weddings, Naming Ceremonies, Baby Showers, Birthdays, Retirement Parties, Car Decoration & Cold Pyro effects. Elegant event planning tailored for you.',
   keywords: 'Vidhate Events, event planner, wedding decoration, car decoration, cold pyro, baby shower, naming ceremony, birthday decoration, retirement party',
   icons: {

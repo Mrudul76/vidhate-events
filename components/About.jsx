@@ -6,7 +6,6 @@ import { motion } from 'framer-motion'
 const stats = [
   { value: '500+', label: 'Events Curated' },
   { value: '5+', label: 'Years of Craft' },
-  { value: '50+', label: 'Cities Served' },
   { value: '100%', label: 'Client Delight' },
 ]
 
